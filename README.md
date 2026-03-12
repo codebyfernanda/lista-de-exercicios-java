@@ -1,5 +1,5 @@
 # ☕ Lista de Exercícios em Java (Lógica de Programação)
-Este repositório contém uma série de exercícios essenciais desenvolvidos em Java, focados em Orientação a Objetos básica, tipos primitivos, entrada de dados com Scanner e formatação de saída.
+Este repositório contém uma série de exercícios essenciais desenvolvidos em Java, focados em Orientação a Objetos básica, tipos primitivos, entrada de dados com Scanner e formatação de saída que estudei durante o 2º semestre da graduação em ADS.
 
 ## O que está disponível neste repositório?
 A lista aborda os mesmos conceitos lógicos, agora aplicados à sintaxe Java:
