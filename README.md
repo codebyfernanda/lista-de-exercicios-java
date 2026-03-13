@@ -10,7 +10,7 @@ A lista aborda os mesmos conceitos lógicos, agora aplicados à sintaxe Java:
 4. **Cálculo de Idade:** Manipulação de datas com Calendar ou LocalDate.
 5. **Folha de Pagamento:** Operações aritméticas para descontos e acréscimos percentuais.
 6. **O Maior de Três:** Implementação da fórmula matemática usando Math.abs.
-7. **Gasto de Combustível:** Cálculo de consumo com saída formatada via printf.
+7. **Gasto de Combustível:** Cálculo de litros gastos em viagens com foco em tipagem double e uso de Locale.US. Aplicando o método printf para formatação de precisão numérica (três casas decimais).
 
 ## Tecnologias Utilizadas
 * **Java JDK (versão 17 ou superior)**
